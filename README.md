@@ -12,23 +12,51 @@
 
 ## Skills and Technologies
 
-Here are some of the technologies and languages I work with:
+Here are some of the languages I work with:
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-FFA500?style=for-the-badge&logo=sql&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Langchain](https://img.shields.io/badge/Langchain-ABC123?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit%20learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Hadoop](https://img.shields.io/badge/Hadoop-FF6600?style=for-the-badge&logo=hadoop&logoColor=white)
+Python: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Java: ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+SQL (Postgres): ![SQL (Postgres)](https://img.shields.io/badge/SQL%20(Postgres)-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+JavaScript: ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+HTML/CSS: ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-239120?style=for-the-badge&logo=html5&logoColor=white)
+Golang (Go): ![Golang (Go)](https://img.shields.io/badge/Golang%20(Go)-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+C/C++: ![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+
+Here are some of the technologies I work with:
+
+PostgreSQL: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+Docker: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+Kubernetes: ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+Spring Data JPA (SQL): ![Spring Data JPA (SQL)](https://img.shields.io/badge/Spring%20Data%20JPA%20(SQL)-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+Token-based Authentication (JWT): ![Token-based Authentication (JWT)](https://img.shields.io/badge/Token%20Authentication%20(JWT)-000000?style=for-the-badge)
+OpenAPI: ![OpenAPI](https://img.shields.io/badge/OpenAPI-6CB33F?style=for-the-badge&logo=openai&logoColor=white)
+REST API: ![REST API](https://img.shields.io/badge/REST%20API-FFD700?style=for-the-badge)
+React: ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+Flask: ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+Spring: ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+Spring Boot: ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+
+Here are some of the developer tools I work with:
+
+Git: ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+GitHub: ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+VS Code: ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Visual Studio: ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+PyCharm: ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+JIRA: ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+Jupyter Notebook: ![Jupyter Notebook](https://img.shields.io/badge/Jupyter%20Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+Maven: ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+SparkContext: ![SparkContext](https://img.shields.io/badge/SparkContext-8C23F?style=for-the-badge&logo=apache-spark&logoColor=white)
+Matplotlib: ![Matplotlib](https://img.shields.io/badge/Matplotlib-47A248?style=for-the-badge&logo=python&logoColor=white)
+Seaborn: ![Seaborn](https://img.shields.io/badge/Seaborn-4EAB6B?style=for-the-badge&logo=python&logoColor=white)
+Postman: ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+Pandas: ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+NumPy: ![NumPy](https://img.shields.io/badge/NumPy-4EAB6B?style=for-the-badge&logo=numpy&logoColor=white)
+Tensor: ![Tensor](https://img.shields.io/badge/Tensor-FF6C37?style=for-the-badge)
+
+
 
 ## What You'll Find Here
 
