@@ -1,6 +1,6 @@
 # Welcome to Rounak's GitHub Profile
 
-![SK](https://github.com/RounakBiswas04/RounakBiswas04/blob/main/pexels-cottonbro-studio-4709290.jpg](https://github.com/RounakBiswas04/RounakBiswas04/blob/main/pexels-olia-danilevich-4974907.jpg)
+![SK](https://github.com/RounakBiswas04/RounakBiswas04/blob/main/pexels-olia-danilevich-4974907.jpg)
 
 👋 Hi, I'm Rounak Biswas, currently pursuing a Master of Science in Computer Science from the [University at Buffalo, State University of New York](https://engineering.buffalo.edu/computer-science-engineering.html).
 
