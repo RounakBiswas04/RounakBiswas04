@@ -6,13 +6,13 @@
 
 ## About Me
 
-💡 Full-stack developer with expertise in JavaScript, React, and modern web development.
-🛠️ Skilled in building secure and scalable applications using Spring Boot, Spring Security, and SQL databases.
-📊 Data enthusiast experienced in Python, Pandas, NumPy, and data analysis tools for revealing valuable insights.
-🌐 DevOps practitioner with proficiency in Docker, Kubernetes, and Git for seamless development and deployment.
-👥 Strong believer in interdisciplinary collaboration, fostering efficiency and innovation.
-📚 Continuous learner exploring new technologies like Golang, MLOps, and more.
-💬 Open to collaborations and job opportunities in software development and machine learning application development.
+- 💡 Full-stack developer with expertise in JavaScript, React, and modern web development.
+- 🛠️ Skilled in building secure and scalable applications using Spring Boot, Spring Security, and SQL databases.
+- 📊 Data enthusiast experienced in Python, Pandas, NumPy, and data analysis tools for revealing valuable insights.
+- 🌐 DevOps practitioner with proficiency in Docker, Kubernetes, and Git for seamless development and deployment.
+- 👥 Strong believer in interdisciplinary collaboration, fostering efficiency and innovation.
+- 📚 Continuous learner exploring new technologies like Golang, MLOps, and more.
+- 💬 Open to collaborations and job opportunities in software development and machine learning application development.
 
 
 ## Skills and Technologies
